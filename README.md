@@ -9,7 +9,7 @@
 
 
 
-<img align="right" height="400" width="400" src="./https://github.com/LavaCode1/LavaCode1/blob/main/WhatsApp%20Image%202026-01-02%20at%2011.51.32%20PM.jpeg" />
+<img align="right" height="400" width="400" src="./8PP5vBfxGm (1).gif" />
 
 
 
