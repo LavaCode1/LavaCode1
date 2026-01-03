@@ -9,7 +9,6 @@
 
 
 
-<img align="right" height="400" width="400" src="./8PP5vBfxGm (1).gif" />
 
 
 
@@ -39,6 +38,9 @@
 </div>
 
 ###
+###
+
+
 
 
 <div align="left" >
@@ -47,7 +49,10 @@
 - Develop dynamic and high-performance web applications 🚀  
 - Enhance user experience (UX) with **React + Next.js** 🎨  
 - Write clean, maintainable, and reusable code 🏗️  
-- Optimize websites using **SEO, SSR, and SSG** 🔍  
+- Optimize websites using **SEO, SSR, and SSG** 🔍
+
+- <img align="right" height="1000" width="500" src="./logo.jpeg" />
+
 
 📌 **Core Skills:**  
  - HTML, CSS, JavaScript, TypeScript 💻
